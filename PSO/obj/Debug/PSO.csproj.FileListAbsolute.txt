@@ -1,0 +1,11 @@
+C:\Users\Filip\source\repos\PSO\PSO\bin\Debug\PSO.exe.config
+C:\Users\Filip\source\repos\PSO\PSO\bin\Debug\PSO.exe
+C:\Users\Filip\source\repos\PSO\PSO\bin\Debug\PSO.pdb
+C:\Users\Filip\source\repos\PSO\PSO\obj\Debug\PSO.Form1.resources
+C:\Users\Filip\source\repos\PSO\PSO\obj\Debug\PSO.Properties.Resources.resources
+C:\Users\Filip\source\repos\PSO\PSO\obj\Debug\PSO.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\PSO\PSO\obj\Debug\PSO.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\PSO\PSO\obj\Debug\PSO.exe
+C:\Users\Filip\source\repos\PSO\PSO\obj\Debug\PSO.pdb
+C:\Users\Filip\source\repos\PSO\PSO\obj\Debug\PSO.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\PSO\PSO\obj\Debug\PSO.csproj.SuggestedBindingRedirects.cache
